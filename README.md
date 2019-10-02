@@ -67,7 +67,14 @@ Once the page is loaded, the browser sends further async requests as needed.
 11. ### Why we need key in react lists? What happens if we provide the index as the key ?
      Answer To be added
 12. ### How to improve performance of a web app
-     Answer To be added
+    1. Code your site for mobile-first quality and speed
+    2. Reduce image size
+    3. Try a CDN
+    4. Cache as much as possible
+    5. Reduce the number of HTTP requests
+    6. Load JavaScript asynchronously
+    7. Review your hosting service plan
+    8. Adopt cloud-based website monitoring
 13. ### What are controlled and uncontrolled inputs in React ?
      Answer To be added
 14. ### What is a closure? How can it be used ?
